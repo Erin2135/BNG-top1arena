@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-helvetica: Helvetica;
+  --font-futura-std: "Futura Std";
+  --small-text: "Helvetica";
+  --font-sfu-futura: "Futura Std";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --small-text-size: 16px;
+  --font-size-lg: 18px;
+  --body-text-size: 20px;
+  --heading-size: 40px;
+  --font-size-31xl: 50px;
+  --title-size: 64px;
+  --subheading-size: 24px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-firebrick: #bf0413;
+  --color-firebrick-100: rgba(191, 4, 19, 0);
+  --color-white: #fff;
+  --color-darkgray: #b4b4b4;
+  --color-gray-100: #828282;
+  --color-darkslategray: #454545;
+  --color-whitesmoke-100: #f7f7f7;
+
+  /* Spacing */
+  --spacing-xs: 8px;
+  --spacing-s: 24px;
+  --spacing-m: 48px;
+  --spacing-sm: 32px;
+
+  /* Gaps */
+  --gap-6xs-4: 6.4px;
+  --gap-5xs: 8px;
+  --gap-5xl: 24px;
+  --gap-29xl: 48px;
+  --gap-base: 16px;
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-5xs-2: 7.2px;
+  --padding-sm: 14px;
+  --padding-5xl: 24px;
+  --padding-13xl: 32px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-5xs: 8px;
+  --br-xs: 12px;
+
+  /* Effects */
+  --button-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+}

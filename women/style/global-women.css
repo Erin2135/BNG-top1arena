@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	line-height: normal;
+	background-color: #000;
+}
+
+:root {
+  /* fonts */
+  --font-helvetica: "Helvetica";
+  --font-futura-std: "Futura Std";
+  
+ 
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-21xl: 40px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-firebrick-100: #bf0413;
+  --color-gray-100: #fffdfd;
+  --color-darkgray: #b4b4b4;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-9xs: 4px;
+  --br-31xl: 50px;
+}
+
+

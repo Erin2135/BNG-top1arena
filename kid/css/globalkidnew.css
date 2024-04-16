@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+background-color: #111111;
+}
+
+:root {
+  /* fonts */
+  --font-helvetica: Helvetica;
+  --font-futura-std: "Futura Std";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-gray-100: #fffdfd;
+  --color-gray-200: #111;
+  --color-firebrick: #bf0413;
+  --color-white: #fff;
+  --color-darkgray: #b4b4b4;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-8xs: 5px;
+  --br-9xs: 4px;
+}
